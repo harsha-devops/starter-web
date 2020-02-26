@@ -5,6 +5,8 @@ showing how to use git and github together
 
 ## Introduction
 
+this is an example
+
 ## Purpose
 
 Sample website with plenty of files for demos
