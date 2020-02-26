@@ -21,4 +21,7 @@ this is just an example for configuring
 this is example how to contribute
 
 
-just for configuring 
+just for configuring
+
+
+## Copyright
