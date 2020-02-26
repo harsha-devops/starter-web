@@ -13,4 +13,12 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+this is just an example for configuring
+
+
 ## How to contribute
+
+this is example how to contribute
+
+
+just for configuring 
