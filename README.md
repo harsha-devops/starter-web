@@ -18,7 +18,7 @@ this is just an example for configuring
 
 ## How to contribute
 
-this is example how to contribute
+this is example how to contribute. This is for test
 
 
 just for configuring
